@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Generic Programmer"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Shubham Vasaikar"
+description              : "Generic Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ShubhVasaikar
 facebook:
   username               :
   app_id                 :
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Shubham Vasaikar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Just another programmer."
+  location         : "Pune, India"
+  email            : shubham.vasaikar7@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : shubhamvasaikar
   google_plus      :
   keybase          :
   instagram        :
@@ -97,10 +97,10 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 5272038/shubham-vasaikar # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : ShubhVasaikar
   vine             :
   weibo            :
   xing             :
